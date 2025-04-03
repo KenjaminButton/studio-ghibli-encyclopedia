@@ -22,10 +22,10 @@ A detailed checklist for building the Studio Ghibli Encyclopedia project using N
     - [x] Create `src/app/locations/` folder.
     - [x] *(Optional)* Create folders for `species`, `vehicles`.
 - [ ] **Version Control Setup:**
-    - [ ] Initialize Git: `git init`.
-    - [ ] Verify `.gitignore` exists and is appropriate.
-    - [ ] Make initial commit: `git add . && git commit -m "Initial project setup with Next.js, TypeScript, Tailwind"`.
-    - [ ] Create GitHub repository and push initial commit.
+    - [x] Initialize Git: `git init`.
+    - [x] Verify `.gitignore` exists and is appropriate.
+    - [x] Make initial commit: `git add . && git commit -m "Initial project setup with Next.js, TypeScript, Tailwind"`.
+    - [x] Create GitHub repository and push initial commit.
 
 ## Phase 2: API Integration & Data Modeling (Est. 2-3 Hours)
 
